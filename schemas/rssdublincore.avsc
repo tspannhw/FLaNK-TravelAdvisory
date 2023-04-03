@@ -1,0 +1,133 @@
+{
+  "type": "record",
+  "name": "rssdublincore",
+  "namespace": "org.apache.nifi",
+  "fields": [
+    {
+      "name": "version",
+      "type": [
+        "float",
+        "null"
+      ]
+    },
+    {
+      "name": "channel",
+      "type": [
+        {
+          "type": "record",
+          "name": "channelType",
+          "fields": [
+            {
+              "name": "title",
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            {
+              "name": "link",
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            {
+              "name": "description",
+              "type": [
+                "string",
+                "null"
+              ]
+            },
+            {
+              "name": "item",
+              "type": [
+                {
+                  "type": "array",
+                  "items": {
+                    "type": "record",
+                    "name": "channel_itemType",
+                    "fields": [
+                      {
+                        "name": "title",
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      {
+                        "name": "pubDate",
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      {
+                        "name": "link",
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      {
+                        "name": "guid",
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      {
+                        "name": "category",
+                        "type": [
+                          {
+                            "type": "array",
+                            "items": {
+                              "type": "record",
+                              "name": "channel_item_categoryType",
+                              "fields": [
+                                {
+                                  "name": "category",
+                                  "type": [
+                                    "string",
+                                    "null"
+                                  ]
+                                },
+                                                    {
+                                  "name": "domain",
+                                  "type": [
+                                    "string",
+                                    "null"
+                                  ]
+                                }
+                              ]
+                            }
+                          },
+                          "null"
+                        ]
+                      },
+                      {
+                        "name": "identifier",
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      },
+                      {
+                        "name": "description",
+                        "type": [
+                          "string",
+                          "null"
+                        ]
+                      }
+                    ]
+                  }
+                },
+                "null"
+              ]
+            }
+          ]
+        },
+        "null"
+      ]
+    }
+  ]
+}
