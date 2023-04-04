@@ -39,3 +39,6 @@ https://www.youtube.com/watch?v=oF0BNByVAtI&ab_channel=DatainMotion
 
 * https://github.com/tspannhw/CloudDemo2021/tree/main/flows
 
+* https://github.com/tspannhw/CloudStatus
+
+* https://community.cloudera.com/t5/Community-Articles/Using-Cloudera-Flow-Management-To-Ingest-and-Process-RSS/ta-p/313074
