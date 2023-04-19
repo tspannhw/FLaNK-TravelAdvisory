@@ -8,6 +8,9 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 ![overview](https://raw.githubusercontent.com/tspannhw/FLaNK-TravelAdvisory/main/images/travelcloud.png)
 
 
+## Data Source
+
+https://travel.state.gov/_res/rss/TAsTWs.xml
 
 
 ## NiFi Flow Overview
