@@ -1,0 +1,11 @@
+cdp df create-deployment \
+  --service-crn crn:cdp:df:us-west-1:5251b921-84c5-45c4-af51-c0b8a6ebd1c9:service:7d3330dd-3f3c-4a6a-989e-ff00b7908fcf \
+  --flow-version-crn "crn:cdp:df:us-west-1:5251b921-84c5-45c4-af51-c0b8a6ebd1c9:flow:tim_traveladvisory_production/v.2" \
+  --deployment-name "tim_traveladvisory_prod2" \
+  --cfm-nifi-version 1.20.0.2.3.8.1-1 \
+  --no-auto-start-flow \
+  --cluster-size-name EXTRA_SMALL \
+  --static-node-count 1 \
+  --no-auto-scaling-enabled \
+  --parameter-groups "file://<<PATH_TO_UPDATE>>/tim_traveladvisory_prod2-parameter-groups.json" \
+  --kpis "file://<<PATH_TO_UPDATE>>/tim_traveladvisory_prod2-kpis.json"
