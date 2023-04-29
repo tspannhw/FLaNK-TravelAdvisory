@@ -12,6 +12,10 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 
 https://travel.state.gov/_res/rss/TAsTWs.xml
 
+## Build Your Flow in Cloudera DataFlow Designer
+
+![alerts](images/cloudflow/alerts.jpg)
+
 
 ## NiFi Flow Overview
 
