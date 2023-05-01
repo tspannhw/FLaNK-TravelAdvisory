@@ -24,7 +24,10 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 
 ![overview](images/slack/step1.jpg)
 
+
 ![details](images/slack/step1b.jpg)
+
+
 
 
 ![overview](images/slack/step2.jpg)
