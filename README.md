@@ -7,10 +7,20 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 
 ![overview](https://raw.githubusercontent.com/tspannhw/FLaNK-TravelAdvisory/main/images/travelcloud.png)
 
+## Final Flow
+
+images/cloudflow/nififlow1.jpg
+
+images/cloudflow/nififlow2.jpg
+
+images/cloudflow/nififlow3.jpg
+
+
 
 ## Data Source
 
 https://travel.state.gov/_res/rss/TAsTWs.xml
+
 
 ## CDF PC Data Hubs
 
@@ -22,6 +32,21 @@ images/cloudflow/datahubs.jpg
 images/cloudflow/datagensmm.jpg
 
 images/cloudflow/createakafkatopic.jpg
+
+## Navigate to DataFlow
+
+images/cloudflow/homepage.jpg
+
+
+## Cloudera Data Flow - Catalog
+
+images/cloudflow/flowcatalog.jpg
+
+images/cloudflow/flowcatalogdeploy.jpg
+
+images/cloudflow/flowcatalogdeployordownload.jpg
+
+images/cloudflow/flowdesigndrafts.jpg
 
 
 ## Build Your Flow in Cloudera DataFlow Designer
@@ -35,17 +60,100 @@ images/cloudflow/configure.jpg
 
 ![alerts](images/cloudflow/avroencodedwriter.jpg)
 
+
+## Choose from the ReadyFlow Gallery to Speed Up Development
+
+images/cloudflow/readyflowgallery.jpg
+
+images/cloudflow/readyflowkafka.jpg
+
+
 ## Coding the Flow
+
+images/cloudflow/invokeHTTP.jpg
+
+images/cloudflow/queryrecord.jpg
+
+images/cloudflow/rssxmlreader.jpg
 
 images/cloudflow/evaluateJsonPath.jpg
 
-## Setting Parameters and Services
+images/cloudflow/publishToKafka.jpg
 
-images/cloudflow/avroencodedwriter.jpg
+images/cloudflow/publishToKafkaDetails.jpg
 
-images/cloudflow/avromessagerider.jpg
+
+
+
+
+## Setting Services
+
+images/cloudflow/jsoninferreader.jpg
+
+images/cloudflow/inferjsonreader.jpg
+
+images/cloudflow/jsonrecordsetwriter.jpg
+
+images/cloudflow/jsontreereaderschema.jpg
+
+![alerts](images/cloudflow/avroencodedwriter.jpg)
+
+![alerts](images/cloudflow/avromessagerider.jpg)
 
 ![alerts](images/cloudflow/addparameter.jpg)
+
+![alerts](images/cloudflow/infopopup.jpg)
+
+
+
+## Setting Parameters
+
+images/cloudflow/parameters.jpg
+
+
+
+## Test Session Run
+
+images/cloudflow/dataviewer.jpg
+
+
+
+## Publish A New Flow
+
+images/cloudflow/publishfromdesigner.jpg
+
+images/cloudflow/publishanewflow.jpg
+
+
+
+## Publish a New Version of A Flow
+
+images/cloudflow/publishnewversion.jpg
+images/cloudflow/publishyourworkingflow.jpg
+
+
+
+## Deploy Your Flow
+
+
+
+images/cloudflow/newdeploymentstep1.jpg
+
+images/cloudflow/newdeploymentsensitiveparameters.jpg
+
+images/cloudflow/newdeploymentaddkpi.jpg
+
+images/cloudflow/newdeploymentscaling.jpg
+
+
+images/cloudflow/deploymentnameandenvironment.jpg
+
+images/cloudflow/deployTravelAdvisory.jpg
+
+images/cloudflow/deployment.jpg
+
+images/cloudflow/deploymentparmsstep.jpg
+
 
 images/cloudflow/builddeploycli.jpg
 
@@ -57,21 +165,8 @@ images/cloudflow/changenifiruntime.jpg
 
 images/cloudflow/changeruntime.jpg
 
+images/cloudflow/kpieditor.jpg
 
-## Test Session Run
-
-images/cloudflow/dataviewer.jpg
-
-
-## Deploy Your Flow
-
-images/cloudflow/deploymentnameandenvironment.jpg
-
-images/cloudflow/deployTravelAdvisory.jpg
-
-images/cloudflow/deployment.jpg
-
-images/cloudflow/deploymentparmsstep.jpg
 
 
 ## Monitor Your Flow
@@ -88,6 +183,19 @@ images/cloudflow/deploymanager3.jpg
 images/cloudflow/deployedTravel.jpg
 
 images/cloudflow/deploymentmanageractions.jpg
+
+images/cloudflow/keyperind.jpg
+
+images/cloudflow/runningprod.jpg
+
+images/cloudflow/jvm.jpg
+
+
+## Monitor K8 Environments
+
+images/cloudflow/monitorenvironment.jpg
+
+
 
 
 ## DataFlow Functions for AWS Lambda, Azure Functions and Google Cloud Functions
