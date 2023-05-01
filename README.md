@@ -20,7 +20,13 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ![alerts](images/cloudflow/avroencodedwriter.jpg)
 
+images/cloudflow/avroencodedwriter.jpg
+
+images/cloudflow/avromessagerider.jpg
+
 ![alerts](images/cloudflow/addparameter.jpg)
+
+images/cloudflow/builddeploycli.jpg
 
 ![alerts](images/cloudflow/alerts.jpg)
 
