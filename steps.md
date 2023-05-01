@@ -86,6 +86,7 @@ For SplitRecord we set the Record Reader to JSON_Reader_InferRoot, the Record Wr
 ![overview](images/slack/step8.jpg)
 
 
+
 ![overview](images/slack/step9.jpg)
 
 ![overview](images/slack/step9b.jpg)
