@@ -250,9 +250,6 @@ images/cloudflow/traveladvisoryschemareg.jpg
 
 images/cloudflow/terminaterunning.jpg
 
-
-
-
 ## DataFlow Functions for AWS Lambda, Azure Functions and Google Cloud Functions
 
 ![GCPFun](images/cloudflow/dataflowfunctions.jpg)
