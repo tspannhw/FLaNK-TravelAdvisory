@@ -95,27 +95,27 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ![overview](images/cloudflow/publishToKafkaDetails.jpg
 
-images/cloudflow/writeToKafka.jpg
+![overview](images/cloudflow/writeToKafka.jpg
 
 
 
 ## Setting Services
 
-images/cloudflow/services.jpg
+![overview](images/cloudflow/services.jpg
 
-images/cloudflow/schemaregistry.jpg
+![overview](images/cloudflow/schemaregistry.jpg
 
-images/cloudflow/setAvroWriteWithSchema.jpg
+![overview](images/cloudflow/setAvroWriteWithSchema.jpg
 
-images/cloudflow/jsoninferreader.jpg
+![overview](images/cloudflow/jsoninferreader.jpg
 
-images/cloudflow/inferjsonreader.jpg
+![overview](images/cloudflow/inferjsonreader.jpg
 
-images/cloudflow/jsonrecordsetwriter.jpg
+![overview](images/cloudflow/jsonrecordsetwriter.jpg
 
-images/cloudflow/schemawrite.jpg
+![overview](images/cloudflow/schemawrite.jpg
 
-images/cloudflow/jsontreereaderschema.jpg
+![overview](images/cloudflow/jsontreereaderschema.jpg
 
 ![alerts](images/cloudflow/avroencodedwriter.jpg)
 
@@ -129,28 +129,28 @@ images/cloudflow/jsontreereaderschema.jpg
 
 ## Setting Parameters
 
-images/cloudflow/parameters.jpg
+![overview](images/cloudflow/parameters.jpg
 
 
 
 ## Test Session Run
 
-images/cloudflow/dataviewer.jpg
+![overview](images/cloudflow/dataviewer.jpg
 
 
 
 ## Publish A New Flow
 
-images/cloudflow/publishfromdesigner.jpg
+![overview](images/cloudflow/publishfromdesigner.jpg
 
-images/cloudflow/publishanewflow.jpg
+![overview](images/cloudflow/publishanewflow.jpg
 
 
 
 ## Publish a New Version of A Flow
 
-images/cloudflow/publishnewversion.jpg
-images/cloudflow/publishyourworkingflow.jpg
+![overview](images/cloudflow/publishnewversion.jpg
+![overview](images/cloudflow/publishyourworkingflow.jpg
 
 
 
@@ -158,92 +158,88 @@ images/cloudflow/publishyourworkingflow.jpg
 
 
 
-images/cloudflow/newdeploymentstep1.jpg
+![overview](images/cloudflow/newdeploymentstep1.jpg
 
-images/cloudflow/newdeploymentsensitiveparameters.jpg
+![overview](images/cloudflow/newdeploymentsensitiveparameters.jpg
 
-images/cloudflow/setparametersonstep.jpg
+![overview](images/cloudflow/setparametersonstep.jpg
 
-images/cloudflow/setsensitiveParameters.jpg
+![overview](images/cloudflow/setsensitiveParameters.jpg
 
+![overview](images/cloudflow/newdeploymentaddkpi.jpg
 
-images/cloudflow/newdeploymentaddkpi.jpg
+![overview](images/cloudflow/newdeploymentscaling.jpg
 
-images/cloudflow/newdeploymentscaling.jpg
+![overview](images/cloudflow/deploymentnameandenvironment.jpg
 
+![overview](images/cloudflow/deployTravelAdvisory.jpg
 
-images/cloudflow/deploymentnameandenvironment.jpg
+![overview](images/cloudflow/deployment.jpg
 
-images/cloudflow/deployTravelAdvisory.jpg
+![overview](images/cloudflow/deploymentparmsstep.jpg
 
-images/cloudflow/deployment.jpg
-
-images/cloudflow/deploymentparmsstep.jpg
-
-
-images/cloudflow/builddeploycli.jpg
+![overview](images/cloudflow/builddeploycli.jpg
 
 ![alerts](images/cloudflow/alerts.jpg)
 
 ![alerts](images/cloudflow/addMoreNodes.jpg)
 
-images/cloudflow/changenifiruntime.jpg
+![overview](images/cloudflow/changenifiruntime.jpg
 
-images/cloudflow/changeruntime.jpg
+![overview](images/cloudflow/changeruntime.jpg
 
-images/cloudflow/kpieditor.jpg
+![overview](images/cloudflow/kpieditor.jpg
 
 
 
 ## Monitor Your Flow
 
-images/cloudflow/deploymentstarted.jpg
+![overview](images/cloudflow/deploymentstarted.jpg
 
+![overview](images/cloudflow/deploymanager.jpg
 
-images/cloudflow/deploymanager.jpg
+![overview](images/cloudflow/deploymanager2.jpg
 
-images/cloudflow/deploymanager2.jpg
+![overview](images/cloudflow/deploymanager3.jpg
 
-images/cloudflow/deploymanager3.jpg
+![overview](images/cloudflow/deployedTravel.jpg
 
-images/cloudflow/deployedTravel.jpg
+![overview](images/cloudflow/deploymentmanageractions.jpg
 
-images/cloudflow/deploymentmanageractions.jpg
+![overview](images/cloudflow/keyperind.jpg
 
-images/cloudflow/keyperind.jpg
+![overview](images/cloudflow/runningprod.jpg
 
-images/cloudflow/runningprod.jpg
+![overview](images/cloudflow/systemmetrics.jpg
 
-images/cloudflow/systemmetrics.jpg
-
-images/cloudflow/jvm.jpg
+![overview](images/cloudflow/jvm.jpg
 
 
 ## Monitor K8 Environments
 
-images/cloudflow/monitorenvironment.jpg
+![overview](images/cloudflow/monitorenvironment.jpg
 
 
 ## Monitor Kafka Messages with SMM in Data Hub
 
-images/cloudflow/smmoverview.jpg
+![overview](images/cloudflow/smmoverview.jpg
 
-images/cloudflow/smmquickview.jpg
+![overview](images/cloudflow/smmquickview.jpg
 
-images/cloudflow/smmtopicsummary.jpg
+![overview](images/cloudflow/smmtopicsummary.jpg
 
-images/cloudflow/smmtravelview.jpg
+![overview](images/cloudflow/smmtravelview.jpg
 
-images/cloudflow/topictimtravel.jpg
+![overview](images/cloudflow/topictimtravel.jpg
 
-images/cloudflow/tim_travel_smm_schema.jpg
+![overview](images/cloudflow/tim_travel_smm_schema.jpg
 
-images/cloudflow/tim_traveladvisoryjson.jpg
+![overview](images/cloudflow/tim_traveladvisoryjson.jpg
 
 
 ## Schema Registry
 
-images/cloudflow/traveladvisoryschemareg.jpg
+![overview](images/cloudflow/traveladvisoryschemareg.jpg
 
 
 ## Terminate a Deployed Flow
