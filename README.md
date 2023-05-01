@@ -26,6 +26,10 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 images/cloudflow/datahubs.jpg
 
+## Set Your Workload Password for Security
+
+images/cloudflow/userid.jpg
+
 
 ## Build Your Kafka Topic
 
@@ -78,21 +82,33 @@ images/cloudflow/rssxmlreader.jpg
 
 images/cloudflow/evaluateJsonPath.jpg
 
+images/cloudflow/splitjson.jpg
+
+images/cloudflow/updateRecord.jpg
+
 images/cloudflow/publishToKafka.jpg
 
 images/cloudflow/publishToKafkaDetails.jpg
 
-
+images/cloudflow/writeToKafka.jpg
 
 
 
 ## Setting Services
+
+images/cloudflow/services.jpg
+
+images/cloudflow/schemaregistry.jpg
+
+images/cloudflow/setAvroWriteWithSchema.jpg
 
 images/cloudflow/jsoninferreader.jpg
 
 images/cloudflow/inferjsonreader.jpg
 
 images/cloudflow/jsonrecordsetwriter.jpg
+
+images/cloudflow/schemawrite.jpg
 
 images/cloudflow/jsontreereaderschema.jpg
 
@@ -141,6 +157,11 @@ images/cloudflow/newdeploymentstep1.jpg
 
 images/cloudflow/newdeploymentsensitiveparameters.jpg
 
+images/cloudflow/setparametersonstep.jpg
+
+images/cloudflow/setsensitiveParameters.jpg
+
+
 images/cloudflow/newdeploymentaddkpi.jpg
 
 images/cloudflow/newdeploymentscaling.jpg
@@ -188,12 +209,41 @@ images/cloudflow/keyperind.jpg
 
 images/cloudflow/runningprod.jpg
 
+images/cloudflow/systemmetrics.jpg
+
 images/cloudflow/jvm.jpg
 
 
 ## Monitor K8 Environments
 
 images/cloudflow/monitorenvironment.jpg
+
+
+## Monitor Kafka Messages with SMM in Data Hub
+
+images/cloudflow/smmoverview.jpg
+
+images/cloudflow/smmquickview.jpg
+
+images/cloudflow/smmtopicsummary.jpg
+
+images/cloudflow/smmtravelview.jpg
+
+images/cloudflow/topictimtravel.jpg
+
+images/cloudflow/tim_travel_smm_schema.jpg
+
+images/cloudflow/tim_traveladvisoryjson.jpg
+
+
+## Schema Registry
+
+images/cloudflow/traveladvisoryschemareg.jpg
+
+
+## Terminate a Deployed Flow
+
+images/cloudflow/terminaterunning.jpg
 
 
 
@@ -236,3 +286,6 @@ https://www.youtube.com/watch?v=oF0BNByVAtI&ab_channel=DatainMotion
 * https://github.com/tspannhw/CloudStatus
 
 * https://community.cloudera.com/t5/Community-Articles/Using-Cloudera-Flow-Management-To-Ingest-and-Process-RSS/ta-p/313074
+
+
+copyright 2023.   Tim Spann.  ![tim](images/mlx/mlx90640-2022-07-26-14-04-12.gif)
