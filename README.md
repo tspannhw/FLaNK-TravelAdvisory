@@ -12,13 +12,34 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 
 https://travel.state.gov/_res/rss/TAsTWs.xml
 
+## CDF PC Data Hubs
+
+images/cloudflow/datahubs.jpg
+
+
+## Build Your Kafka Topic
+
+images/cloudflow/datagensmm.jpg
+
+images/cloudflow/createakafkatopic.jpg
+
+
 ## Build Your Flow in Cloudera DataFlow Designer
 
-
+images/cloudflow/dashbord.jpg
 
 ![alerts](images/cloudflow/addinboundconnections.jpg)
 
+
+images/cloudflow/configure.jpg
+
 ![alerts](images/cloudflow/avroencodedwriter.jpg)
+
+## Coding the Flow
+
+images/cloudflow/evaluateJsonPath.jpg
+
+## Setting Parameters and Services
 
 images/cloudflow/avroencodedwriter.jpg
 
@@ -36,6 +57,42 @@ images/cloudflow/changenifiruntime.jpg
 
 images/cloudflow/changeruntime.jpg
 
+
+## Test Session Run
+
+images/cloudflow/dataviewer.jpg
+
+
+## Deploy Your Flow
+
+images/cloudflow/deploymentnameandenvironment.jpg
+
+images/cloudflow/deployTravelAdvisory.jpg
+
+images/cloudflow/deployment.jpg
+
+images/cloudflow/deploymentparmsstep.jpg
+
+
+## Monitor Your Flow
+
+images/cloudflow/deploymentstarted.jpg
+
+
+images/cloudflow/deploymanager.jpg
+
+images/cloudflow/deploymanager2.jpg
+
+images/cloudflow/deploymanager3.jpg
+
+images/cloudflow/deployedTravel.jpg
+
+images/cloudflow/deploymentmanageractions.jpg
+
+
+## DataFlow Functions for AWS Lambda, Azure Functions and Google Cloud Functions
+
+![GCPFun](images/cloudflow/dataflowfunctions.jpg)
 
 
 ## NiFi Flow Overview
