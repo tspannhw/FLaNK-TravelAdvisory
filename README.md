@@ -9,11 +9,11 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 
 ## Final Flow
 
-images/cloudflow/nififlow1.jpg
+![overview](images/cloudflow/nififlow1.jpg)
 
-images/cloudflow/nififlow2.jpg
+![overview](images/cloudflow/nififlow2.jpg)
 
-images/cloudflow/nififlow3.jpg
+![overview](images/cloudflow/nififlow3.jpg)
 
 
 
@@ -24,71 +24,75 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ## CDF PC Data Hubs
 
-images/cloudflow/datahubs.jpg
+![overview](images/cloudflow/datahubs.jpg
+
 
 ## Set Your Workload Password for Security
 
-images/cloudflow/userid.jpg
+![overview](images/cloudflow/userid.jpg
 
 
 ## Build Your Kafka Topic
 
-images/cloudflow/datagensmm.jpg
+![overview](images/cloudflow/datagensmm.jpg
 
-images/cloudflow/createakafkatopic.jpg
+![overview](images/cloudflow/createakafkatopic.jpg
+
+
 
 ## Navigate to DataFlow
 
-images/cloudflow/homepage.jpg
+![overview](images/cloudflow/homepage.jpg
 
 
 ## Cloudera Data Flow - Catalog
 
-images/cloudflow/flowcatalog.jpg
+![overview](images/cloudflow/flowcatalog.jpg
 
-images/cloudflow/flowcatalogdeploy.jpg
+![overview](images/cloudflow/flowcatalogdeploy.jpg
 
-images/cloudflow/flowcatalogdeployordownload.jpg
+![overview](images/cloudflow/flowcatalogdeployordownload.jpg
 
-images/cloudflow/flowdesigndrafts.jpg
+![overview](images/cloudflow/flowdesigndrafts.jpg
+
 
 
 ## Build Your Flow in Cloudera DataFlow Designer
 
-images/cloudflow/dashbord.jpg
+![overview](images/cloudflow/dashbord.jpg
 
 ![alerts](images/cloudflow/addinboundconnections.jpg)
 
-
-images/cloudflow/configure.jpg
+![overview](images/cloudflow/configure.jpg
 
 ![alerts](images/cloudflow/avroencodedwriter.jpg)
 
 
+
 ## Choose from the ReadyFlow Gallery to Speed Up Development
 
-images/cloudflow/readyflowgallery.jpg
+![overview](images/cloudflow/readyflowgallery.jpg
 
-images/cloudflow/readyflowkafka.jpg
+![overview](images/cloudflow/readyflowkafka.jpg
 
 
 ## Coding the Flow
 
-images/cloudflow/invokeHTTP.jpg
+![overview](images/cloudflow/invokeHTTP.jpg
 
-images/cloudflow/queryrecord.jpg
+![overview](images/cloudflow/queryrecord.jpg
 
-images/cloudflow/rssxmlreader.jpg
+![overview](images/cloudflow/rssxmlreader.jpg
 
-images/cloudflow/evaluateJsonPath.jpg
+![overview](images/cloudflow/evaluateJsonPath.jpg
 
-images/cloudflow/splitjson.jpg
+![overview](images/cloudflow/splitjson.jpg
 
-images/cloudflow/updateRecord.jpg
+![overview](images/cloudflow/updateRecord.jpg
 
-images/cloudflow/publishToKafka.jpg
+![overview](images/cloudflow/publishToKafka.jpg
 
-images/cloudflow/publishToKafkaDetails.jpg
+![overview](images/cloudflow/publishToKafkaDetails.jpg
 
 images/cloudflow/writeToKafka.jpg
 
