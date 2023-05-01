@@ -60,6 +60,8 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ## Build Your Flow in Cloudera DataFlow Designer
 
+For a step-by-step flow walkthrough, see https://github.com/tspannhw/FLaNK-TravelAdvisory/blob/main/steps.md
+
 ![overview](images/cloudflow/dashbord.jpg)
 
 ![alerts](images/cloudflow/addinboundconnections.jpg)
