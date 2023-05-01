@@ -72,11 +72,19 @@ Connect QueryRecord to SplitJson if no errors.
 
 SplitJson we set the JsonPath Expression to ```` $.*.*.item ````
 
+
 ![overview](images/slack/step6.jpg)
+
+We then connect SplitJson to SplitRecord.
+
 
 ![overview](images/slack/step7.jpg)
 
+For SplitRecord we set the Record Reader to JSON_Reader_InferRoot, the Record Writer to TravelJsonRecordSetWriter and records per split to 1.
+
+
 ![overview](images/slack/step8.jpg)
+
 
 ![overview](images/slack/step9.jpg)
 
