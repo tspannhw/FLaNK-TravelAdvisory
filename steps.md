@@ -15,9 +15,21 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 
 
 
+## Adding Processors to the Designer
+
+Here I list most of the processors available
+
+https://www.datainmotion.dev/2023/04/dataflow-processors.html
+
+
+## Flow Parameters
 
 
 ## Flow Walk Through
+
+If you are loading my pre-built flow when you enter you will see the details for the process group in the configuration pallet.
+
+We add an invokeHTTP processor and set the parameters.
 
 
 ![overview](images/slack/step1.jpg)
