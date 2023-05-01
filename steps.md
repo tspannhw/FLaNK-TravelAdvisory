@@ -31,6 +31,8 @@ Go to parameters and enter all you will need for the flow.
 ![overview](images/slack/gotoparameters.jpg)
 
 
+You can add all the ones listed below.
+
 ![overview](images/slack/parameterslist.jpg)
 
 
@@ -50,13 +52,25 @@ We add an invokeHTTP processor and set the parameters.
 Now we can add a parameter for the HTTP URL for Travel Advisories.
 
 
+
 ![overview](images/slack/step2.jpg)
+
+Connect InvokeHTTP to QueryRecord.   Name your connection for monitoring later.
+
 
 ![overview](images/slack/step3.jpg)
 
+QueryRecord, convert XML(RSS) to JSON, you will need RSSXMLReader and TravelJsonRecordSetWriter.
+
+
 ![overview](images/slack/step4.jpg)
 
+Connect QueryRecord to SplitJson if no errors.
+
+
 ![overview](images/slack/step5.jpg)
+
+SplitJson we set the JsonPath Expression to ```` $.*.*.item ````
 
 ![overview](images/slack/step6.jpg)
 
