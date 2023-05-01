@@ -22,7 +22,17 @@ Here I list most of the processors available
 https://www.datainmotion.dev/2023/04/dataflow-processors.html
 
 
+
 ## Flow Parameters
+
+Go to parameters and enter all you will need for the flow.
+
+
+![overview](images/slack/gotoparameters.jpg)
+
+
+![overview](images/slack/parameterslist.jpg)
+
 
 
 ## Flow Walk Through
@@ -37,7 +47,7 @@ We add an invokeHTTP processor and set the parameters.
 
 ![details](images/slack/step1b.jpg)
 
-
+Now we can add a parameter for the HTTP URL for Travel Advisories.
 
 
 ![overview](images/slack/step2.jpg)
@@ -85,6 +95,14 @@ We add an invokeHTTP processor and set the parameters.
 ![overview](images/slack/step21.jpg)
 
 ![overview](images/slack/step22PutSlack.jpg)
+
+
+
+## Flow Services
+
+![services](images/slack/services.jpg)
+
+
 
 
 @copy; 2023 Tim Spann https://datainmotion.dev/
