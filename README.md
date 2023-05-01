@@ -32,6 +32,10 @@ images/cloudflow/builddeploycli.jpg
 
 ![alerts](images/cloudflow/addMoreNodes.jpg)
 
+images/cloudflow/changenifiruntime.jpg
+
+images/cloudflow/changeruntime.jpg
+
 
 
 ## NiFi Flow Overview
