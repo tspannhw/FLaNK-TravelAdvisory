@@ -267,6 +267,18 @@ images/cloudflow/terminaterunning.jpg
 ![mlx](https://raw.githubusercontent.com/tspannhw/FLaNK-TravelAdvisory/main/images/mlx/mlx90640-2022-04-28-10-08-46.gif)
 
 
+## SQL Stream Builder (Apache Flink SQL)
+
+![ssbsql](images/advisoryqueryrunning.jpg)
+![mv](images/materializedviewtraveldefine.jpg)
+![ssb](images/ssbmvsave.jpg)
+![ssb](images/ssbmvsaved.jpg)
+![materializedview](images/materializedviewrestapijson.jpg)
+
+![flinkjob](images/flinkjob.jpg)
+
+
+
 
 ## Example Video
 
