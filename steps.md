@@ -13,9 +13,7 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 
 ![overview](images/cloudflow/nififlow1.jpg)
 
-![overview](images/cloudflow/nififlow2.jpg)
 
-![overview](images/cloudflow/nififlow3.jpg)
 
 
 
