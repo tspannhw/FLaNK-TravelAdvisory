@@ -25,46 +25,46 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ## CDF PC Data Hubs
 
-![overview](images/cloudflow/datahubs.jpg
+![overview](images/cloudflow/datahubs.jpg)
 
 
 ## Set Your Workload Password for Security
 
-![overview](images/cloudflow/userid.jpg
+![overview](images/cloudflow/userid.jpg)
 
 
 ## Build Your Kafka Topic
 
-![overview](images/cloudflow/datagensmm.jpg
+![overview](images/cloudflow/datagensmm.jpg)
 
-![overview](images/cloudflow/createakafkatopic.jpg
+![overview](images/cloudflow/createakafkatopic.jpg)
 
 
 
 ## Navigate to DataFlow
 
-![overview](images/cloudflow/homepage.jpg
+![overview](images/cloudflow/homepage.jpg)
 
 
 ## Cloudera Data Flow - Catalog
 
-![overview](images/cloudflow/flowcatalog.jpg
+![overview](images/cloudflow/flowcatalog.jpg)
 
-![overview](images/cloudflow/flowcatalogdeploy.jpg
+![overview](images/cloudflow/flowcatalogdeploy.jpg)
 
-![overview](images/cloudflow/flowcatalogdeployordownload.jpg
+![overview](images/cloudflow/flowcatalogdeployordownload.jpg)
 
-![overview](images/cloudflow/flowdesigndrafts.jpg
+![overview](images/cloudflow/flowdesigndrafts.jpg)
 
 
 
 ## Build Your Flow in Cloudera DataFlow Designer
 
-![overview](images/cloudflow/dashbord.jpg
+![overview](images/cloudflow/dashbord.jpg)
 
 ![alerts](images/cloudflow/addinboundconnections.jpg)
 
-![overview](images/cloudflow/configure.jpg
+![overview](images/cloudflow/configure.jpg)
 
 ![alerts](images/cloudflow/avroencodedwriter.jpg)
 
@@ -72,50 +72,50 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ## Choose from the ReadyFlow Gallery to Speed Up Development
 
-![overview](images/cloudflow/readyflowgallery.jpg
+![overview](images/cloudflow/readyflowgallery.jpg)
 
-![overview](images/cloudflow/readyflowkafka.jpg
+![overview](images/cloudflow/readyflowkafka.jpg)
 
 
 ## Coding the Flow
 
-![overview](images/cloudflow/invokeHTTP.jpg
+![overview](images/cloudflow/invokeHTTP.jpg)
 
-![overview](images/cloudflow/queryrecord.jpg
+![overview](images/cloudflow/queryrecord.jpg)
 
-![overview](images/cloudflow/rssxmlreader.jpg
+![overview](images/cloudflow/rssxmlreader.jpg)
 
-![overview](images/cloudflow/evaluateJsonPath.jpg
+![overview](images/cloudflow/evaluateJsonPath.jpg)
 
-![overview](images/cloudflow/splitjson.jpg
+![overview](images/cloudflow/splitjson.jpg)
 
-![overview](images/cloudflow/updateRecord.jpg
+![overview](images/cloudflow/updateRecord.jpg)
 
-![overview](images/cloudflow/publishToKafka.jpg
+![overview](images/cloudflow/publishToKafka.jpg)
 
-![overview](images/cloudflow/publishToKafkaDetails.jpg
+![overview](images/cloudflow/publishToKafkaDetails.jpg)
 
-![overview](images/cloudflow/writeToKafka.jpg
+![overview](images/cloudflow/writeToKafka.jpg)
 
 
 
 ## Setting Services
 
-![overview](images/cloudflow/services.jpg
+![overview](images/cloudflow/services.jpg)
 
-![overview](images/cloudflow/schemaregistry.jpg
+![overview](images/cloudflow/schemaregistry.jpg)
 
-![overview](images/cloudflow/setAvroWriteWithSchema.jpg
+![overview](images/cloudflow/setAvroWriteWithSchema.jpg)
 
-![overview](images/cloudflow/jsoninferreader.jpg
+![overview](images/cloudflow/jsoninferreader.jpg)
 
-![overview](images/cloudflow/inferjsonreader.jpg
+![overview](images/cloudflow/inferjsonreader.jpg)
 
-![overview](images/cloudflow/jsonrecordsetwriter.jpg
+![overview](images/cloudflow/jsonrecordsetwriter.jpg)
 
-![overview](images/cloudflow/schemawrite.jpg
+![overview](images/cloudflow/schemawrite.jpg)
 
-![overview](images/cloudflow/jsontreereaderschema.jpg
+![overview](images/cloudflow/jsontreereaderschema.jpg)
 
 ![alerts](images/cloudflow/avroencodedwriter.jpg)
 
@@ -129,28 +129,28 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ## Setting Parameters
 
-![overview](images/cloudflow/parameters.jpg
+![overview](images/cloudflow/parameters.jpg)
 
 
 
 ## Test Session Run
 
-![overview](images/cloudflow/dataviewer.jpg
+![overview](images/cloudflow/dataviewer.jpg)
 
 
 
 ## Publish A New Flow
 
-![overview](images/cloudflow/publishfromdesigner.jpg
+![overview](images/cloudflow/publishfromdesigner.jpg)
 
-![overview](images/cloudflow/publishanewflow.jpg
+![overview](images/cloudflow/publishanewflow.jpg)
 
 
 
 ## Publish a New Version of A Flow
 
-![overview](images/cloudflow/publishnewversion.jpg
-![overview](images/cloudflow/publishyourworkingflow.jpg
+![overview](images/cloudflow/publishnewversion.jpg)
+![overview](images/cloudflow/publishyourworkingflow.jpg)
 
 
 
@@ -158,61 +158,61 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 
 
-![overview](images/cloudflow/newdeploymentstep1.jpg
+![overview](images/cloudflow/newdeploymentstep1.jpg)
 
-![overview](images/cloudflow/newdeploymentsensitiveparameters.jpg
+![overview](images/cloudflow/newdeploymentsensitiveparameters.jpg)
 
-![overview](images/cloudflow/setparametersonstep.jpg
+![overview](images/cloudflow/setparametersonstep.jpg)
 
-![overview](images/cloudflow/setsensitiveParameters.jpg
+![overview](images/cloudflow/setsensitiveParameters.jpg)
 
-![overview](images/cloudflow/newdeploymentaddkpi.jpg
+![overview](images/cloudflow/newdeploymentaddkpi.jpg)
 
-![overview](images/cloudflow/newdeploymentscaling.jpg
+![overview](images/cloudflow/newdeploymentscaling.jpg)
 
-![overview](images/cloudflow/deploymentnameandenvironment.jpg
+![overview](images/cloudflow/deploymentnameandenvironment.jpg)
 
-![overview](images/cloudflow/deployTravelAdvisory.jpg
+![overview](images/cloudflow/deployTravelAdvisory.jpg)
 
-![overview](images/cloudflow/deployment.jpg
+![overview](images/cloudflow/deployment.jpg)
 
-![overview](images/cloudflow/deploymentparmsstep.jpg
+![overview](images/cloudflow/deploymentparmsstep.jpg)
 
-![overview](images/cloudflow/builddeploycli.jpg
+![overview](images/cloudflow/builddeploycli.jpg)
 
 ![alerts](images/cloudflow/alerts.jpg)
 
 ![alerts](images/cloudflow/addMoreNodes.jpg)
 
-![overview](images/cloudflow/changenifiruntime.jpg
+![overview](images/cloudflow/changenifiruntime.jpg)
 
-![overview](images/cloudflow/changeruntime.jpg
+![overview](images/cloudflow/changeruntime.jpg)
 
-![overview](images/cloudflow/kpieditor.jpg
+![overview](images/cloudflow/kpieditor.jpg)
 
 
 
 ## Monitor Your Flow
 
-![overview](images/cloudflow/deploymentstarted.jpg
+![overview](images/cloudflow/deploymentstarted.jpg)
 
-![overview](images/cloudflow/deploymanager.jpg
+![overview](images/cloudflow/deploymanager.jpg)
 
-![overview](images/cloudflow/deploymanager2.jpg
+![overview](images/cloudflow/deploymanager2.jpg)
 
-![overview](images/cloudflow/deploymanager3.jpg
+![overview](images/cloudflow/deploymanager3.jpg)
 
-![overview](images/cloudflow/deployedTravel.jpg
+![overview](images/cloudflow/deployedTravel.jpg)
 
-![overview](images/cloudflow/deploymentmanageractions.jpg
+![overview](images/cloudflow/deploymentmanageractions.jpg)
 
-![overview](images/cloudflow/keyperind.jpg
+![overview](images/cloudflow/keyperind.jpg)
 
-![overview](images/cloudflow/runningprod.jpg
+![overview](images/cloudflow/runningprod.jpg)
 
-![overview](images/cloudflow/systemmetrics.jpg
+![overview](images/cloudflow/systemmetrics.jpg)
 
-![overview](images/cloudflow/jvm.jpg
+![overview](images/cloudflow/jvm.jpg)
 
 
 ## Monitor K8 Environments
@@ -222,29 +222,29 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ## Monitor Kafka Messages with SMM in Data Hub
 
-![overview](images/cloudflow/smmoverview.jpg
+![overview](images/cloudflow/smmoverview.jpg)
 
-![overview](images/cloudflow/smmquickview.jpg
+![overview](images/cloudflow/smmquickview.jpg)
 
-![overview](images/cloudflow/smmtopicsummary.jpg
+![overview](images/cloudflow/smmtopicsummary.jpg)
 
-![overview](images/cloudflow/smmtravelview.jpg
+![overview](images/cloudflow/smmtravelview.jpg)
 
-![overview](images/cloudflow/topictimtravel.jpg
+![overview](images/cloudflow/topictimtravel.jpg)
 
-![overview](images/cloudflow/tim_travel_smm_schema.jpg
+![overview](images/cloudflow/tim_travel_smm_schema.jpg)
 
-![overview](images/cloudflow/tim_traveladvisoryjson.jpg
+![overview](images/cloudflow/tim_traveladvisoryjson.jpg)
 
 
 ## Schema Registry
 
-![overview](images/cloudflow/traveladvisoryschemareg.jpg
+![overview](images/cloudflow/traveladvisoryschemareg.jpg)
 
 
 ## Terminate a Deployed Flow
 
-images/cloudflow/terminaterunning.jpg
+![overview](images/cloudflow/terminaterunning.jpg)
 
 ## DataFlow Functions for AWS Lambda, Azure Functions and Google Cloud Functions
 
