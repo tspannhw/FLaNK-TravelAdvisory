@@ -14,7 +14,18 @@ https://travel.state.gov/_res/rss/TAsTWs.xml
 
 ## Build Your Flow in Cloudera DataFlow Designer
 
+
+
+![alerts](images/cloudflow/addinboundconnections.jpg)
+
+![alerts](images/cloudflow/avroencodedwriter.jpg)
+
+![alerts](images/cloudflow/addparameter.jpg)
+
 ![alerts](images/cloudflow/alerts.jpg)
+
+![alerts](images/cloudflow/addMoreNodes.jpg)
+
 
 
 ## NiFi Flow Overview
