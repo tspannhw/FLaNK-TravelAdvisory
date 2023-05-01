@@ -8,6 +8,7 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 
 ![overview](https://raw.githubusercontent.com/tspannhw/FLaNK-TravelAdvisory/main/images/travelcloud.png)
 
+
 ## Final Flow
 
 ![overview](images/cloudflow/nififlow1.jpg)
@@ -15,6 +16,7 @@ Travel Advisory - RSS Processing - Apache NiFi - Apache Kafka - Apache Flink - S
 ![overview](images/cloudflow/nififlow2.jpg)
 
 ![overview](images/cloudflow/nififlow3.jpg)
+
 
 ## Flow Walk Through
 
