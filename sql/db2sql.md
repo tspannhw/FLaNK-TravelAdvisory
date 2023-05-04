@@ -30,7 +30,7 @@ db2 "CREATE TABLE traveladvisory (
   category VARCHAR(4096),
   description VARCHAR(4096),
   uuid VARCHAR(250) NOT NULL,
-  ts INT NOT NULL,
+  ts BIGINT NOT NULL,
   PRIMARY KEY (uuid)
   );"
  
@@ -52,14 +52,13 @@ DOMAIN                          SYSIBM    VARCHAR                    250     0 Y
 CATEGORY                        SYSIBM    VARCHAR                   4096     0 Yes
 DESCRIPTION                     SYSIBM    VARCHAR                   4096     0 Yes
 UUID                            SYSIBM    VARCHAR                    250     0 No
-TS                              SYSIBM    INTEGER                      4     0 No
+TS                              SYSIBM    BIGINT                       8     0 No
 
   10 record(s) selected.
   
 db2 "select * from traveladvisory"
 
 ````
-
 
 ### Query
 
