@@ -59,3 +59,13 @@ TS                              SYSIBM    INTEGER                      4     0 N
 db2 "select * from traveladvisory"
 
 ````
+
+
+### Query
+
+````
+su - db2inst1
+db2 connect to sample
+db2 "select count(*) from traveladvisory"
+
+````S
