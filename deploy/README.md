@@ -8,19 +8,19 @@ https://www.youtube.com/watch?v=biKribaFD_s&ab_channel=DatainMotion
 ## Step-by-Step Deploy
 
 
-![0](deploy/designtopublish.jpg)
+![0](designtopublish.jpg)
 
-![1](deploy/newdeployment.jpg)
+![1](newdeployment.jpg)
 
-![2](deploy/deployfromcatalog.jpg)
+![2](deployfromcatalog.jpg)
 
-![3](deploy/newdeploymnent.jpg)
+![3](newdeploymnent.jpg)
 
-![4](deploy/deploymentoverview.jpg)
+![4](deploymentoverview.jpg)
 
-![5](deploy/parameters.jpg)
+![5](parameters.jpg)
 
-![6](deploy/configuration.jpg)
+![6](configuration.jpg)
 
 
 ### Deployment Code
