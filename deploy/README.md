@@ -27,6 +27,11 @@ Configuration
 ![6](configuration.jpg)
 
 
+Review Deployment
+
+![8](deployTravelAdvisory.jpg)
+
+
 ### Deployment Code
 
 See:  deploy/tim_traveladvisory_icebergread-version-4.json
