@@ -31,6 +31,10 @@ Review Deployment
 
 ![8](deployTravelAdvisory.jpg)
 
+Examing Deployment in Deployment Manager
+
+![10](deploymanager.jpg)
+
 
 ### Deployment Code
 
