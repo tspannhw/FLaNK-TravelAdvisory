@@ -18,7 +18,11 @@ https://www.youtube.com/watch?v=biKribaFD_s&ab_channel=DatainMotion
 
 ![4](deploymentoverview.jpg)
 
+Parameters
+
 ![5](parameters.jpg)
+
+Configuration
 
 ![6](configuration.jpg)
 
