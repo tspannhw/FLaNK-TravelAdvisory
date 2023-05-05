@@ -7,6 +7,16 @@
 
 
 ````
+docker pull icr.io/db2_community/db2
+
+docker run -h db2server --name db2server --restart=always --detach --privileged=true -p 50000:50000 --env-file .env_list -v /Docker:/database icr.io/db2_community/db2
+
+
+docker exec -ti db2server bash -c "su - db2inst1"
+db2sampl -force -sql
+
+docker exec -i -t db2server /bin/bash
+
 su - db2inst1
 db2 connect to sample
 
@@ -15,6 +25,27 @@ db2 connect to sample
  Database server        = DB2/LINUXX8664 11.5.8.0
  SQL authorization ID   = DB2INST1
  Local database alias   = SAMPLE
+````
+
+### .env_list
+
+````
+LICENSE=accept
+DB2INSTANCE=db2inst1
+DB2INST1_PASSWORD=password
+DBNAME=testdb
+BLU=false
+ENABLE_ORACLE_COMPATIBILITY=false
+UPDATEAVAIL=NO
+TO_CREATE_SAMPLEDB=false
+REPODB=false
+IS_OSXFS=false
+PERSISTENT_HOME=true
+HADR_ENABLED=false
+ETCD_ENDPOINT=
+ETCD_USERNAME=
+ETCD_PASSWORD=
+
 ````
 
 ### Table DDL
@@ -67,4 +98,12 @@ su - db2inst1
 db2 connect to sample
 db2 "select count(*) from traveladvisory"
 
-````S
+````
+
+### References
+
+https://www.ibm.com/docs/en/db2/11.5?topic=system-linux
+
+https://www.ibm.com/docs/en/db2/11.5?topic=linux-testing-your-db2-community-edition-docker-image-installation-systems
+
+
