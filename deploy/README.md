@@ -5,6 +5,37 @@
 
 https://www.youtube.com/watch?v=biKribaFD_s&ab_channel=DatainMotion
 
+## Step-by-Step Deploy
+
+
+![0](deploy/designtopublish.jpg)
+
+![1](deploy/newdeployment.jpg)
+
+![2](deploy/deployfromcatalog.jpg)
+
+![3](deploy/newdeploymnent.jpg)
+
+![4](deploy/deploymentoverview.jpg)
+
+![5](deploy/parameters.jpg)
+
+![6](deploy/configuration.jpg)
+
+
+### Deployment Code
+
+See:  deploy/tim_traveladvisory_icebergread-version-4.json
+
+### Parameters
+
+See: deploy/tim_traveladvisory_prod14-parameter-groups.json
+
+### KPI
+
+See: deploy/tim_traveladvisory_prod14-kpis.json
+
+
 
 
 ### Reference Documentation
