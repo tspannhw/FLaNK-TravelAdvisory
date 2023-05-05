@@ -1,0 +1,53 @@
+[
+  {
+    "metricId": "connectionBytesQueued",
+    "componentId": "72d8870c-935f-33dc-965a-8529173db6fe;9798880a-08e5-4397-9a54-e0a13fc532bd;ad7e48ea-afdf-44c5-bcd8-7f8b8b199a01"
+  },
+  {
+    "metricId": "processorBytesOut",
+    "componentId": "72d8870c-935f-33dc-965a-8529173db6fe;4882c074-8871-3bb7-b5dd-f3bdaf00b40d",
+    "alert": {
+      "thresholdLessThan": {
+        "unitId": "kilobyte",
+        "value": 1
+      },
+      "frequencyTolerance": {
+        "unit": {
+          "id": "MINUTES"
+        },
+        "value": 15
+      }
+    }
+  },
+  {
+    "metricId": "flowAmountQueued",
+    "alert": {
+      "thresholdLessThan": {
+        "unitId": "count",
+        "value": 1000
+      },
+      "frequencyTolerance": {
+        "unit": {
+          "id": "HOURS"
+        },
+        "value": 1
+      }
+    }
+  },
+  {
+    "metricId": "processGroupAmountBytesSent",
+    "componentId": "72d8870c-935f-33dc-965a-8529173db6fe",
+    "alert": {
+      "thresholdMoreThan": {
+        "unitId": "megabyte",
+        "value": 155
+      },
+      "frequencyTolerance": {
+        "unit": {
+          "id": "MINUTES"
+        },
+        "value": 5
+      }
+    }
+  }
+]

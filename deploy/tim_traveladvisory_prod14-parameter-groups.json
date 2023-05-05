@@ -1,0 +1,84 @@
+[
+  {
+    "name": "tim_traveladvisory",
+    "parameters": [
+      {
+        "name": "CDP Workload User Password",
+        "assetReferences": [],
+        "value": "<<CDP_MISSING_SENSITIVE_VALUE>>"
+      },
+      {
+        "name": "CDP Workload Username",
+        "assetReferences": [],
+        "value": "tim"
+      },
+      {
+        "name": "Database Driver Location",
+        "assetReferences": [
+          "<<CDP_MISSING_FILE_PATH>>/ImpalaJDBC42.jar"
+        ],
+        "value": ""
+      },
+      {
+        "name": "Destination Topic Name",
+        "assetReferences": [],
+        "value": "tim_traveladvisory"
+      },
+      {
+        "name": "HTTP URL",
+        "assetReferences": [],
+        "value": "https://travel.state.gov/_res/rss/TAsTWs.xml"
+      },
+      {
+        "name": "Kafka Brokers",
+        "assetReferences": [],
+        "value": "oss-kafka-demo-corebroker2.oss-demo.qsm5-opic.cloudera.site:9093,\noss-kafka-demo-corebroker1.oss-demo.qsm5-opic.cloudera.site:9093,\noss-kafka-demo-corebroker0.oss-demo.qsm5-opic.cloudera.site:9093"
+      },
+      {
+        "name": "Kafka Producer ID",
+        "assetReferences": [],
+        "value": "tim_travel_id"
+      },
+      {
+        "name": "Kerberos Password",
+        "assetReferences": [],
+        "value": "<<CDP_MISSING_SENSITIVE_VALUE>>"
+      },
+      {
+        "name": "Pulsar Topic Name",
+        "assetReferences": [],
+        "value": "persistent://public/default/traveladvisory"
+      },
+      {
+        "name": "Schema Name",
+        "assetReferences": [],
+        "value": "tim_traveladvisory"
+      },
+      {
+        "name": "Schema Registry Hostname",
+        "assetReferences": [],
+        "value": "oss-kafka-demo-master0.oss-demo.qsm5-opic.cloudera.site"
+      },
+      {
+        "name": "Schema Text",
+        "assetReferences": [],
+        "value": "{\n  \"type\": \"record\",\n  \"name\": \"rssdublincore\",\n  \"namespace\": \"org.apache.nifi\",\n  \"fields\": [\n    {\n      \"name\": \"version\",\n      \"type\": [\n        \"float\",\n        \"null\"\n      ]\n    },\n    {\n      \"name\": \"channel\",\n      \"type\": [\n        {\n          \"type\": \"record\",\n          \"name\": \"channelType\",\n          \"fields\": [\n            {\n              \"name\": \"title\",\n              \"type\": [\n                \"string\",\n                \"null\"\n              ]\n            },\n            {\n              \"name\": \"link\",\n              \"type\": [\n                \"string\",\n                \"null\"\n              ]\n            },\n            {\n              \"name\": \"description\",\n              \"type\": [\n                \"string\",\n                \"null\"\n              ]\n            },\n            {\n              \"name\": \"item\",\n              \"type\": [\n                {\n                  \"type\": \"array\",\n                  \"items\": {\n                    \"type\": \"record\",\n                    \"name\": \"channel_itemType\",\n                    \"fields\": [\n                      {\n                        \"name\": \"title\",\n                        \"type\": [\n                          \"string\",\n                          \"null\"\n                        ]\n                      },\n                      {\n                        \"name\": \"pubDate\",\n                        \"type\": [\n                          \"string\",\n                          \"null\"\n                        ]\n                      },\n                      {\n                        \"name\": \"link\",\n                        \"type\": [\n                          \"string\",\n                          \"null\"\n                        ]\n                      },\n                      {\n                        \"name\": \"guid\",\n                        \"type\": [\n                          \"string\",\n                          \"null\"\n                        ]\n                      },\n                      {\n                        \"name\": \"category\",\n                        \"type\": [\n                          {\n                            \"type\": \"array\",\n                            \"items\": {\n                              \"type\": \"record\",\n                              \"name\": \"channel_item_categoryType\",\n                              \"fields\": [\n                                {\n                                  \"name\": \"category\",\n                                  \"type\": [\n                                    \"string\",\n                                    \"null\"\n                                  ]\n                                },\n                                                    {\n                                  \"name\": \"domain\",\n                                  \"type\": [\n                                    \"string\",\n                                    \"null\"\n                                  ]\n                                }\n                              ]\n                            }\n                          },\n                          \"null\"\n                        ]\n                      },\n                      {\n                        \"name\": \"identifier\",\n                        \"type\": [\n                          \"string\",\n                          \"null\"\n                        ]\n                      },\n                      {\n                        \"name\": \"description\",\n                        \"type\": [\n                          \"string\",\n                          \"null\"\n                        ]\n                      }\n                    ]\n                  }\n                },\n                \"null\"\n              ]\n            }\n          ]\n        },\n        \"null\"\n      ]\n    }\n  ]\n}"
+      },
+      {
+        "name": "Schema2",
+        "assetReferences": [],
+        "value": "oss-kafka-datagen-master0.oss-demo.qsm5-opic.cloudera.site"
+      },
+      {
+        "name": "Webhook URL",
+        "assetReferences": [],
+        "value": "<<CDP_MISSING_SENSITIVE_VALUE>>"
+      },
+      {
+        "name": "WebhookText",
+        "assetReferences": [],
+        "value": " ${title}\n\n${description}\n\n${link}\n\nPublication Date: ${pubdate}\nLast Modified: ${Last-Modified}\n${uuid} Slack Sent: ${now()}\n"
+      }
+    ]
+  }
+]
