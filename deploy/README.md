@@ -10,13 +10,23 @@ https://www.youtube.com/watch?v=biKribaFD_s&ab_channel=DatainMotion
 
 ![0](designtopublish.jpg)
 
+Publish to Catalog
+
+![t0](designtopublish.jpg)
+
 ![1](newdeployment.jpg)
+
+![t2](deployment.jpg)
 
 ![2](deployfromcatalog.jpg)
 
 ![3](newdeploymnent.jpg)
 
 ![4](deploymentoverview.jpg)
+
+Set the Deployment Name
+
+![t5](deploymentnameandenvironment.jpg)
 
 Parameters
 
@@ -31,9 +41,23 @@ Review Deployment
 
 ![8](deployTravelAdvisory.jpg)
 
+![t8](deployTravelAdvisory.jpg)
+
+![t9](deploymentparmsstep.jpg)
+
+
 Examing Deployment in Deployment Manager
 
 ![10](deploymanager.jpg)
+
+Started
+
+![t11](deploymentstarted.jpg)
+
+View NiFi Running in K8
+
+![11](deploymentmanageractions.jpg)
+
 
 
 ### Deployment Code
