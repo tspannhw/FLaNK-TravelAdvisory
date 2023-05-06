@@ -5,10 +5,9 @@
 
 https://www.youtube.com/watch?v=biKribaFD_s&ab_channel=DatainMotion
 
+
 ## Step-by-Step Deploy
 
-
-![0](designtopublish.jpg)
 
 Publish to Catalog
 
