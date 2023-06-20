@@ -4,9 +4,27 @@
 * https://www.db2tutorial.com/db2-basics/db2-create-table/
 * https://github.com/dicksontung/docker-db2/blob/master/ibm-db2/config/db2.sql
 * https://www.orb-data.com/kb/how-do-you-list-db2-tables/
-
+*
 
 ````
+
+db2
+connect to sample
+
+grant createtab,bindadd,connect on database to user tspann
+
+quit
+
+on docker instance login as root
+adduser tspann
+passwd tspann
+
+db2 "CONNECT TO sample user tspann using password1"
+db2 "GRANT DBADM, CREATETAB, BINDADD, CONNECT, CREATE_NOT_FENCED, 
+IMPLICIT_SCHEMA, LOAD ON DATABASE TO USER tspann"
+
+db2 "grant dataaccess on db2inst1 to user tspann"
+
 docker pull icr.io/db2_community/db2
 
 docker run -h db2server --name db2server --restart=always --detach --privileged=true -p 50000:50000 --env-file .env_list -v /Docker:/database icr.io/db2_community/db2
